@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "esbuild test.ts && esbuild < test.ts"
+    "start": "esbuild test.ts && esbuild < test.ts"
   },
   "repository": {
     "type": "git",
