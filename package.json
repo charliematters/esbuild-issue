@@ -1,0 +1,22 @@
+{
+  "name": "esbuild-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "esbuild test.ts && esbuild < test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliematters/esbuild-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliematters/esbuild-issue/issues"
+  },
+  "homepage": "https://github.com/charliematters/esbuild-issue#readme",
+  "dependencies": {
+    "esbuild": "^0.17.16"
+  }
+}
